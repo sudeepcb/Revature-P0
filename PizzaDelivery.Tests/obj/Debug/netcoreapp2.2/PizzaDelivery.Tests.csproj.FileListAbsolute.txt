@@ -1,0 +1,14 @@
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\netcoreapp2.2\PizzaDelivery.Tests.deps.json
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\netcoreapp2.2\PizzaDelivery.Tests.runtimeconfig.json
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\netcoreapp2.2\PizzaDelivery.Tests.runtimeconfig.dev.json
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\netcoreapp2.2\PizzaDelivery.Tests.dll
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\netcoreapp2.2\PizzaDelivery.Tests.pdb
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Tests\obj\Debug\netcoreapp2.2\PizzaDelivery.Tests.csprojAssemblyReference.cache
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Tests\obj\Debug\netcoreapp2.2\PizzaDelivery.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Tests\obj\Debug\netcoreapp2.2\PizzaDelivery.Tests.AssemblyInfoInputs.cache
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Tests\obj\Debug\netcoreapp2.2\PizzaDelivery.Tests.AssemblyInfo.cs
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Tests\obj\Debug\netcoreapp2.2\PizzaDelivery.Tests.dll
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Tests\obj\Debug\netcoreapp2.2\PizzaDelivery.Tests.pdb

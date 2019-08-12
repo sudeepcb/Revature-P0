@@ -1,0 +1,9 @@
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Data\bin\Debug\netstandard2.0\PizzaDelivery.Data.deps.json
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Data\bin\Debug\netstandard2.0\PizzaDelivery.Data.dll
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Data\bin\Debug\netstandard2.0\PizzaDelivery.Data.pdb
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Data\obj\Debug\netstandard2.0\PizzaDelivery.Data.csprojAssemblyReference.cache
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Data\obj\Debug\netstandard2.0\PizzaDelivery.Data.csproj.CoreCompileInputs.cache
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Data\obj\Debug\netstandard2.0\PizzaDelivery.Data.AssemblyInfoInputs.cache
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Data\obj\Debug\netstandard2.0\PizzaDelivery.Data.AssemblyInfo.cs
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Data\obj\Debug\netstandard2.0\PizzaDelivery.Data.dll
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Data\obj\Debug\netstandard2.0\PizzaDelivery.Data.pdb

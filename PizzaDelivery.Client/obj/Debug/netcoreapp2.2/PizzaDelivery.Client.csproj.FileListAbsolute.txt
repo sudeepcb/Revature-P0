@@ -1,0 +1,11 @@
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\bin\Debug\netcoreapp2.2\PizzaDelivery.Client.deps.json
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\bin\Debug\netcoreapp2.2\PizzaDelivery.Client.runtimeconfig.json
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\bin\Debug\netcoreapp2.2\PizzaDelivery.Client.runtimeconfig.dev.json
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\bin\Debug\netcoreapp2.2\PizzaDelivery.Client.dll
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\bin\Debug\netcoreapp2.2\PizzaDelivery.Client.pdb
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\obj\Debug\netcoreapp2.2\PizzaDelivery.Client.csprojAssemblyReference.cache
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\obj\Debug\netcoreapp2.2\PizzaDelivery.Client.csproj.CoreCompileInputs.cache
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\obj\Debug\netcoreapp2.2\PizzaDelivery.Client.AssemblyInfoInputs.cache
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\obj\Debug\netcoreapp2.2\PizzaDelivery.Client.AssemblyInfo.cs
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\obj\Debug\netcoreapp2.2\PizzaDelivery.Client.dll
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\obj\Debug\netcoreapp2.2\PizzaDelivery.Client.pdb
