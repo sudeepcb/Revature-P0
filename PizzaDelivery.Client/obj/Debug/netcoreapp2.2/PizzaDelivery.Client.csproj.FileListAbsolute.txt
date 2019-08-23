@@ -9,3 +9,8 @@ C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\obj\Debug\netcoreap
 C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\obj\Debug\netcoreapp2.2\PizzaDelivery.Client.AssemblyInfo.cs
 C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\obj\Debug\netcoreapp2.2\PizzaDelivery.Client.dll
 C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\obj\Debug\netcoreapp2.2\PizzaDelivery.Client.pdb
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\bin\Debug\netcoreapp2.2\PizzaDelivery.Domain.dll
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\bin\Debug\netcoreapp2.2\PizzaDelivery.Domain.pdb
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\obj\Debug\netcoreapp2.2\PizzaDelivery.Client.csproj.CopyComplete
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\bin\Debug\netcoreapp2.2\PizzaDelivery.Data.dll
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Client\bin\Debug\netcoreapp2.2\PizzaDelivery.Data.pdb

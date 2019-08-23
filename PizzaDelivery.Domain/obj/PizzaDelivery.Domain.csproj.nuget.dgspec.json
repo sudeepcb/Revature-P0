@@ -4,6 +4,74 @@
     "C:\\Users\\sudee\\C#Revature\\PizzaDelivery\\PizzaDelivery.Domain\\PizzaDelivery.Domain.csproj": {}
   },
   "projects": {
+    "C:\\Users\\sudee\\C#Revature\\PizzaDelivery\\PizzaDelivery.Data\\PizzaDelivery.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sudee\\C#Revature\\PizzaDelivery\\PizzaDelivery.Data\\PizzaDelivery.Data.csproj",
+        "projectName": "PizzaDelivery.Data",
+        "projectPath": "C:\\Users\\sudee\\C#Revature\\PizzaDelivery\\PizzaDelivery.Data\\PizzaDelivery.Data.csproj",
+        "packagesPath": "C:\\Users\\sudee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sudee\\C#Revature\\PizzaDelivery\\PizzaDelivery.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sudee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "microsoft.entityframeworkcore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "microsoft.entityframeworkcore.design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "microsoft.entityframeworkcore.tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
     "C:\\Users\\sudee\\C#Revature\\PizzaDelivery\\PizzaDelivery.Domain\\PizzaDelivery.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -17,19 +85,21 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\sudee\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\sudee\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\sudee\\C#Revature\\PizzaDelivery\\PizzaDelivery.Data\\PizzaDelivery.Data.csproj": {
+                "projectPath": "C:\\Users\\sudee\\C#Revature\\PizzaDelivery\\PizzaDelivery.Data\\PizzaDelivery.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -7,3 +7,6 @@ C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Domain\obj\Debug\netstanda
 C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Domain\obj\Debug\netstandard2.0\PizzaDelivery.Domain.AssemblyInfo.cs
 C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Domain\obj\Debug\netstandard2.0\PizzaDelivery.Domain.dll
 C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Domain\obj\Debug\netstandard2.0\PizzaDelivery.Domain.pdb
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Domain\bin\Debug\netstandard2.0\PizzaDelivery.Data.dll
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Domain\bin\Debug\netstandard2.0\PizzaDelivery.Data.pdb
+C:\Users\sudee\C#Revature\PizzaDelivery\PizzaDelivery.Domain\obj\Debug\netstandard2.0\PizzaDelivery.Domain.csproj.CopyComplete
